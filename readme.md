@@ -15,7 +15,7 @@
 * `git config --global user.email <you email>`
 
 ### for keeping track your file
-* `git init 
+* `git init` 
 * `git add <filename/foldername>`
 * `git commit -m <your message>`
 
